@@ -23,6 +23,6 @@ Pin   |Function|ESP8266|
 |3V3   |3.3V                            |3.3V|
 |RST   |Reset                           |RST|
 
-#Outcome
+##Outcome
 Deg C = 58.00	 Deg F = 136.40
 Deg C = 57.25	 Deg F = 135.05
