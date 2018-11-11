@@ -23,7 +23,6 @@ Pin   |Function|ESP8266|
 |3V3   |3.3V                            |3.3V|
 |RST   |Reset                           |RST|
 
-![alt text]( https://cdn-images-1.medium.com/max/1600/1*YKc8KpAfMrlhrOLmNjdRwQ.png "Wire")
 #Outcome
-Deg C = 28.25	 Deg F = 82.85<br>
-Deg C = 28.50	 Deg F = 83.30
+Deg C = 58.00	 Deg F = 136.40
+Deg C = 57.25	 Deg F = 135.05
